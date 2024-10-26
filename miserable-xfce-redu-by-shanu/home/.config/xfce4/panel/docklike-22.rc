@@ -1,0 +1,10 @@
+[user]
+pinned=/usr/share/applications/thunar.desktop;
+indicatorStyle=4
+inactiveIndicatorStyle=4
+indicatorOrientation=1
+indicatorColor=rgb(255,163,72)
+inactiveColor=rgb(76,166,230)
+showPreviews=true
+noWindowsListIfSingle=true
+indicatorColorFromTheme=false

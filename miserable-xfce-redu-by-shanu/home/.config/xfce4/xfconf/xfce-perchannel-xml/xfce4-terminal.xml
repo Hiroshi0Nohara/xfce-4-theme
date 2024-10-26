@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfce4-terminal" version="1.0">
+  <property name="background-mode" type="string" value="TERMINAL_BACKGROUND_IMAGE"/>
+  <property name="background-darkness" type="double" value="0.84999999999999998"/>
+  <property name="background-image-shading" type="double" value="1"/>
+  <property name="color-foreground" type="string" value="#dcdcdc"/>
+  <property name="color-background" type="string" value="#2c2c2c"/>
+  <property name="color-cursor" type="string" value="#dcdcdc"/>
+  <property name="color-palette" type="string" value="rgb(31,35,53);rgb(247,118,142);rgb(158,206,106);rgb(224,175,104);rgb(122,162,247);rgb(187,154,247);rgb(125,207,255);rgb(220,220,220);rgb(31,35,53);rgb(247,118,142);rgb(158,206,106);rgb(224,175,104);rgb(122,162,247);rgb(187,154,247);rgb(125,207,255);rgb(255,255,255)"/>
+  <property name="color-use-theme" type="bool" value="true"/>
+  <property name="dropdown-width" type="uint" value="84"/>
+  <property name="font-name" type="string" value="JetBrainsMono Nerd Font 11"/>
+  <property name="misc-always-show-tabs" type="bool" value="false"/>
+  <property name="misc-bell" type="bool" value="false"/>
+  <property name="misc-bell-urgent" type="bool" value="false"/>
+  <property name="misc-borders-default" type="bool" value="true"/>
+  <property name="misc-cursor-blinks" type="bool" value="false"/>
+  <property name="misc-cursor-shape" type="string" value="TERMINAL_CURSOR_SHAPE_UNDERLINE"/>
+  <property name="misc-default-geometry" type="string" value="86x23"/>
+  <property name="misc-inherit-geometry" type="bool" value="false"/>
+  <property name="misc-menubar-default" type="bool" value="false"/>
+  <property name="misc-mouse-autohide" type="bool" value="false"/>
+  <property name="misc-mouse-wheel-zoom" type="bool" value="true"/>
+  <property name="misc-toolbar-default" type="bool" value="false"/>
+  <property name="misc-confirm-close" type="bool" value="true"/>
+  <property name="misc-cycle-tabs" type="bool" value="true"/>
+  <property name="misc-tab-close-buttons" type="bool" value="true"/>
+  <property name="misc-tab-close-middle-click" type="bool" value="true"/>
+  <property name="misc-tab-position" type="string" value="GTK_POS_TOP"/>
+  <property name="misc-highlight-urls" type="bool" value="true"/>
+  <property name="misc-middle-click-opens-uri" type="bool" value="false"/>
+  <property name="misc-copy-on-select" type="bool" value="false"/>
+  <property name="misc-show-relaunch-dialog" type="bool" value="true"/>
+  <property name="misc-rewrap-on-resize" type="bool" value="true"/>
+  <property name="misc-slim-tabs" type="bool" value="false"/>
+  <property name="misc-new-tab-adjacent" type="bool" value="false"/>
+  <property name="misc-search-dialog-opacity" type="uint" value="100"/>
+  <property name="misc-show-unsafe-paste-dialog" type="bool" value="true"/>
+  <property name="misc-right-click-action" type="string" value="TERMINAL_RIGHT_CLICK_ACTION_CONTEXT_MENU"/>
+  <property name="scrolling-bar" type="string" value="TERMINAL_SCROLLBAR_NONE"/>
+  <property name="scrolling-lines" type="uint" value="999999"/>
+  <property name="title-initial" type="string" value="Xfce Terminal"/>
+  <property name="tab-activity-color" type="string" value="#bfff3fff3fff"/>
+</channel>

@@ -1,0 +1,27 @@
+[Desktop Entry]
+Name=Zen Browser
+Comment=Experience tranquillity while browsing the web without people tracking you!
+Exec=/home/ibnbatuta/.local/share/AppImage/ZenBrowser.AppImage %u
+Icon=/home/ibnbatuta/.local/share/icons/ZenBrowser.png
+Type=Application
+MimeType=text/html;text/xml;application/xhtml+xml;x-scheme-handler/http;x-scheme-handler/https;application/x-xpinstall;application/pdf;application/json;
+StartupWMClass=zen-alpha
+Categories=Network;WebBrowser;
+StartupNotify=true
+Terminal=false
+X-MultipleArgs=false
+Keywords=Internet;WWW;Browser;Web;Explorer;
+Actions=new-window;new-private-window;profilemanager;
+X-XFCE-Source=file:///home/ibnbatuta/.local/share/applications/ZenBrowser.desktop
+
+[Desktop Action new-window]
+Name=Open a New Window
+Exec=/home/ibnbatuta/.local/share/AppImage/ZenBrowser.AppImage %u
+
+[Desktop Action new-private-window]
+Name=Open a New Private Window
+Exec=/home/ibnbatuta/.local/share/AppImage/ZenBrowser.AppImage --private-window %u
+
+[Desktop Action profilemanager]
+Name=Open the Profile Manager
+Exec=/home/ibnbatuta/.local/share/AppImage/ZenBrowser.AppImage --ProfileManager %u

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Noi
+Comment=Noi
+GenericName=Noi
+Exec=noi %U
+Icon=noi
+Type=Application
+StartupNotify=true
+Categories=GNOME;GTK;Utility;
+X-XFCE-Source=file:///usr/share/applications/noi.desktop

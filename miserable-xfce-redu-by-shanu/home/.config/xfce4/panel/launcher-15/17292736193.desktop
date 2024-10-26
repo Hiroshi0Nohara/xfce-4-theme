@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=sidebar
+Comment=sidebar
+Exec=eww open --toggle sidebar
+Icon=/home/ibnbatuta/.assets/Menu.svg
+Path=
+Terminal=false
+StartupNotify=false

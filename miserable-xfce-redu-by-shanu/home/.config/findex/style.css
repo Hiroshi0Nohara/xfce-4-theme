@@ -1,0 +1,40 @@
+.findex-query {
+    padding: 14px 18px;
+    font-size: 20px;
+    border: none;
+    border-radius: 10px;
+}
+
+.findex-result-row {
+    margin: 4px;
+    border-radius: 6px;
+    transition: 0;
+} 
+
+.findex-result-icon {
+    margin: 6px;
+    margin-left: 10px;
+}
+
+.findex-result-app-name
+{
+    font-weight: bold;
+    font-size: 14px;
+    margin-left: 4px;
+    margin-right: 4px;
+}
+
+.findex-result-app-description
+{
+    opacity: 0.0;
+    margin: 0px;
+    font-size: 0px;
+    padding: 0px;
+}
+
+.findex-result-app-command {
+    font-style: italic;
+    opacity: 0.5;
+    margin-left: 4px;
+    margin-right: 4px;
+}

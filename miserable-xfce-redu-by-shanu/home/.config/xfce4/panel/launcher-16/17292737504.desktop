@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=sysstat
+Comment=sysstat
+Exec=eww open --toggle sysstat
+Icon=/home/ibnbatuta/.assets/activity.svg
+Path=
+Terminal=false
+StartupNotify=false

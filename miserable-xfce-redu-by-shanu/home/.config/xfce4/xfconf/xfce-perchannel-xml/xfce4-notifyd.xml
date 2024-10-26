@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfce4-notifyd" version="1.0">
+  <property name="log-max-size-enabled" type="bool" value="true"/>
+  <property name="applications" type="empty">
+    <property name="known_applications" type="array">
+      <value type="string" value="xfce4-sensors-plugin"/>
+      <value type="string" value="Thunar"/>
+      <value type="string" value="Volume Icon"/>
+      <value type="string" value="Xfce volume control"/>
+      <value type="string" value="org.freedesktop.network-manager-applet"/>
+      <value type="string" value="Xfce4-notifyd settings"/>
+      <value type="string" value="Persepolis Download Manager"/>
+      <value type="string" value="nm-applet"/>
+      <value type="string" value="xfce4-power-manager"/>
+      <value type="string" value="xfce4-settings-helper"/>
+      <value type="string" value="notify-send"/>
+      <value type="string" value="thunar-volman"/>
+      <value type="string" value="MX Updater"/>
+    </property>
+  </property>
+  <property name="do-not-disturb" type="bool" value="true"/>
+</channel>

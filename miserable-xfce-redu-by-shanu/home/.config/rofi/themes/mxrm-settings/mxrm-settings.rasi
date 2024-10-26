@@ -1,0 +1,19 @@
+/**
+ * ROFI mxrm-settings by Melber & MX-Devs
+ */
+ 
+ * {
+font: "Noto Sans 12";
+}
+
+window {
+anchor: center;
+location: center;
+y-offset: 0;
+x-offset: 0;
+width: 30%;
+}
+
+listview {
+lines: 12;
+}
