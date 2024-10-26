@@ -1,0 +1,6 @@
+sudo apt install fonts-terminus xfonts-terminus materia-gtk-theme papirus-icon-theme fonts-jetbrains-mono git
+
+gruvbox plus dark icon pack
+
+
+
