@@ -7,7 +7,7 @@ menu : whisker
 
 
 
-OS: [Linux Mint XFCE ](https://www.linuxmint.com/edition.php?id=294)
+OS: MX linux 
 
 GTK: [Flat remix](https://www.xfce-look.org/p/1214931/)
 
